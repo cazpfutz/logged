@@ -1,0 +1,10 @@
+{
+	"package": {
+		"name": "logged/cazpfutz",
+		"autoload": {
+			"psr-0": {
+				"Mera": "src"
+			}
+		}
+	}
+}
